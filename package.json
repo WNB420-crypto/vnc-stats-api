@@ -1,0 +1,13 @@
+{
+  "name": "vnc-stats-api",
+  "version": "1.0.0",
+  "description": "VNC Dispatch live stats API for Vinci HQ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.4"
+  }
+}
